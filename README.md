@@ -2,9 +2,10 @@
 
 JUDUL :
 
-a. Global Emissions [Supervised] - https://www.kaggle.com/datasets/die9origephit/methane-emissions-dataset
+1. Global Emissions [Supervised] - https://www.kaggle.com/datasets/die9origephit/methane-emissions-dataset
 
-b. Country Data [Unsupervised] - https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
+2. Country Data [Unsupervised] - https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
+<br><br>
 
 NAMA KELOMPOK :
 1. MUHAMMAD PUTRA WIBISONO (2109116045) <- KETUA
